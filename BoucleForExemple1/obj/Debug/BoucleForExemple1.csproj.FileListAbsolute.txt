@@ -1,0 +1,33 @@
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\bin\Debug\BoucleFor2.exe.config
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleFor2.exe
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleFor2.pdb
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\bin\Debug\BoucleFor2.exe
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\bin\Debug\BoucleFor2.pdb
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleForExemple1.frmPrincipal.resources
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleFor2.Properties.Resources.resources
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.GenerateResource.Cache
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.CoreCompileInputs.cache
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.AssemblyReference.cache
+\\edu.net.fr.ch\perso$\Users\bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.SuggestedBindingRedirects.cache
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.AssemblyReference.cache
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.SuggestedBindingRedirects.cache
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleForExemple1.frmPrincipal.resources
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleFor2.Properties.Resources.resources
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.GenerateResource.cache
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.CoreCompileInputs.cache
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleFor2.exe
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\obj\Debug\BoucleFor2.pdb
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\bin\Debug\BoucleFor2.exe.config
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\bin\Debug\BoucleFor2.exe
+\\edu.net.fr.ch\perso$\users\Bersetm\Modules\402 Langage évolué\VCSharp\Projects\Démos\BoucleForExemple1\Code de départ\BoucleForExemple1\bin\Debug\BoucleFor2.pdb
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.AssemblyReference.cache
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.SuggestedBindingRedirects.cache
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleForExemple1.frmPrincipal.resources
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleFor2.Properties.Resources.resources
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.GenerateResource.cache
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleForExemple1.csproj.CoreCompileInputs.cache
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleFor2.exe
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\obj\Debug\BoucleFor2.pdb
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\bin\Debug\BoucleFor2.exe.config
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\bin\Debug\BoucleFor2.exe
+C:\Users\corpatauxE07\OneDrive - EDUETATFR\E402\téhorie\BoucleForExemple1\bin\Debug\BoucleFor2.pdb
