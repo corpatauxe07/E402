@@ -1,0 +1,10 @@
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\bin\Debug\DémoEfface.exe.config
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\bin\Debug\DémoEfface.exe
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\bin\Debug\DémoEfface.pdb
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.csprojAssemblyReference.cache
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.frmPrincipal.resources
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.Properties.Resources.resources
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.csproj.GenerateResource.cache
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.csproj.CoreCompileInputs.cache
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.exe
+C:\Users\bersetm\source\repos\DémoEfface\DémoEfface\obj\Debug\DémoEfface.pdb

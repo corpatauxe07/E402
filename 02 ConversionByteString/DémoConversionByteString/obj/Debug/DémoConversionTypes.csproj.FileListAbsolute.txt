@@ -1,0 +1,10 @@
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\bin\Debug\DémoConversionTypes.exe.config
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\bin\Debug\DémoConversionTypes.exe
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\bin\Debug\DémoConversionTypes.pdb
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.csprojAssemblyReference.cache
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.Form1.resources
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.Properties.Resources.resources
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.csproj.GenerateResource.cache
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.csproj.CoreCompileInputs.cache
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.exe
+C:\Users\bersetm\source\repos\DémoConversionTypes\DémoConversionTypes\obj\Debug\DémoConversionTypes.pdb
